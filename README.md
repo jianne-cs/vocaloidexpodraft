@@ -114,12 +114,6 @@ resources/views/layouts/guest-navigation.blade.php
 | `.js` | Interactive functionality | `resources/js/` |
 | Images | Visual elements | `public/images/` |
 
-## 💡 Pro Tips for Designers:
-
-1. **Use Blade layouts** to maintain consistent design
-2. **Check `routes/web.php`** to see which view corresponds to which URL
-3. **Run `npm run dev`** after changing CSS/JS to see changes
-4. **Use browser developer tools** to inspect elements
 
 ## 🎯 Simple Workflow:
 1. Identify the page URL (e.g., `/dashboard`)
@@ -128,4 +122,4 @@ resources/views/layouts/guest-navigation.blade.php
 4. Modify CSS in `resources/css/` if needed
 5. Refresh the page to see changes
 
-Your groupmate should primarily work in the `resources/views/` and `resources/css/` directories for webpage design!
+
